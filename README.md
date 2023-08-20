@@ -8,7 +8,7 @@
    ```
    pip install flask opencv-python dlib imutils
    ```
-2. Скачайте файл `shape_predictor_68_face_landmarks.dat` с [этой страницы](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) и распакуйте его. Поместите файл в директорию проекта.
+2. Скачайте файл `shape_predictor_68_face_landmarks.dat` с [этой страницы](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat) и распакуйте его. Поместите файл в директорию проекта.
 
 3. Поместите код приложения в файл `main.py` в вашей директории проекта.
 
